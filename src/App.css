@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css ou App.css */
+/* src/App.css */
+.bg-synergie-1 { background-color: #071726; }
+.bg-synergie-2 { background-color: #1C4B5D; }
+.bg-synergie-3 { background-color: #1D6887; }
+.bg-synergie-4 { background-color: #BCD2E7; }
+.bg-synergie-5 { background-color: #DEF1FF; }
+
+.text-synergie-1 { color: #071726; }
+.text-synergie-2 { color: #1C4B5D; }
+.text-synergie-3 { color: #1D6887; }
+.text-synergie-4 { color: #BCD2E7; }
+.text-synergie-5 { color: #DEF1FF; }
+
+.border-synergie-1 { border-color: #071726; }
+.border-synergie-2 { border-color: #1C4B5D; }
+.border-synergie-3 { border-color: #1D6887; }
+.border-synergie-4 { border-color: #BCD2E7; }
+.border-synergie-5 { border-color: #DEF1FF; }
